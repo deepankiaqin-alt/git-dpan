@@ -19,3 +19,6 @@ kar a {
     margin-right: 10px;
     text-decoration: none;
 }
+kar a:hover {
+    color: white;
+}
