@@ -9,3 +9,13 @@ h1 {
 p {
     color: black;
 }
+
+kar {
+    background-color: blue;
+    padding: 10px;
+}
+
+kar a {
+    margin-right: 10px;
+    text-decoration: none;
+}
