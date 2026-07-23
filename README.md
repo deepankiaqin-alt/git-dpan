@@ -1,1 +1,2 @@
 This is a simple Git dpan project.
+Updated from GitHub
